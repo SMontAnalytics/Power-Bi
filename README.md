@@ -1,0 +1,1 @@
+En este portafolio se mostrara el proyecto del curso de Power Bi, a diferencia con el de Data Analytics, en este curso se exploraron en profundidad gran parte de las funciones de esta herramienta, incluido el uso lenguaje DAX para campos calculados.
